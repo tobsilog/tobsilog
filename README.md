@@ -2,7 +2,7 @@
 
 ⭐ BS Computer Science student in University of San Carlos 🏫  
 ⭐ My field of interest is Data Science 💻  
-⭐ Currently upskilling :D ![DataCamp Logo](https://play-lh.googleusercontent.com/2menhwShF67fUQBiKbqgXs49QT1M750gTGSnwr_CblafB1pfs5NNDOJZIry_q7Fj8Rw =20x20)  
+⭐ Currently upskilling :D <img src="https://play-lh.googleusercontent.com/2menhwShF67fUQBiKbqgXs49QT1M750gTGSnwr_CblafB1pfs5NNDOJZIry_q7Fj8Rw" alt="DataCamp Logo" width="20">  
 ⭐ I also like to read books, please recommend sci-fi ✍(◔◡◔)
 
 
