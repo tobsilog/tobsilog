@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS Computer Science student in University of San Carlos<br>My field of interest is Data Science<br>Current;y upskilling :D
+BS Computer Science student in University of San Carlos<br>My field of interest is Data Science<br>Currently upskilling https://play-lh.googleusercontent.com/2menhwShF67fUQBiKbqgXs49QT1M750gTGSnwr_CblafB1pfs5NNDOJZIry_q7Fj8Rw :D
 
 
 # 💻 Tech Stack:
